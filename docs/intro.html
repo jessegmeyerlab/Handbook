@@ -4,27 +4,27 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 2 Introduction | Schweppe Lab Handbook</title>
-  <meta name="description" content="This is a lab handbook for the Schweppe Lab within the Department of Genome Sciences at the University of Washington." />
-  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+  <title>Chapter 2 Introduction | Meyer Lab Handbook</title>
+  <meta name="description" content="This is a lab handbook for the Meyer Lab within the Department of Biochemistry at the Medical College of Wisconsin." />
+  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 2 Introduction | Schweppe Lab Handbook" />
+  <meta property="og:title" content="Chapter 2 Introduction | Meyer Lab Handbook" />
   <meta property="og:type" content="book" />
   
   
-  <meta property="og:description" content="This is a lab handbook for the Schweppe Lab within the Department of Genome Sciences at the University of Washington." />
+  <meta property="og:description" content="This is a lab handbook for the Meyer Lab within the Department of Biochemistry at the Medical College of Wisconsin." />
   <meta name="github-repo" content="rstudio/LabHandbook" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 2 Introduction | Schweppe Lab Handbook" />
+  <meta name="twitter:title" content="Chapter 2 Introduction | Meyer Lab Handbook" />
   
-  <meta name="twitter:description" content="This is a lab handbook for the Schweppe Lab within the Department of Genome Sciences at the University of Washington." />
+  <meta name="twitter:description" content="This is a lab handbook for the Meyer Lab within the Department of Biochemistry at the Medical College of Wisconsin." />
   
 
-<meta name="author" content="Devin Schweppe" />
+<meta name="author" content="Jesse Meyer" />
 
 
-<meta name="date" content="2020-08-07" />
+<meta name="date" content="2020-10-18" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -78,6 +78,7 @@
 <li class="chapter" data-level="2.1.3" data-path="intro.html"><a href="intro.html#for-post-docs"><i class="fa fa-check"></i><b>2.1.3</b> For Post-docs</a></li>
 <li class="chapter" data-level="2.1.4" data-path="intro.html"><a href="intro.html#for-graduate-students"><i class="fa fa-check"></i><b>2.1.4</b> For Graduate Students</a></li>
 <li class="chapter" data-level="2.1.5" data-path="intro.html"><a href="intro.html#for-lab-managers-research-scientists"><i class="fa fa-check"></i><b>2.1.5</b> For Lab Managers &amp; Research Scientists</a></li>
+<li class="chapter" data-level="2.1.6" data-path="intro.html"><a href="intro.html#data-and-reproducibility"><i class="fa fa-check"></i><b>2.1.6</b> Data and reproducibility</a></li>
 </ul></li>
 <li class="chapter" data-level="2.2" data-path="intro.html"><a href="intro.html#lab-architecture"><i class="fa fa-check"></i><b>2.2</b> Lab Architecture</a></li>
 <li class="chapter" data-level="2.3" data-path="intro.html"><a href="intro.html#current-lab-members"><i class="fa fa-check"></i><b>2.3</b> Current Lab Members</a><ul>
@@ -127,9 +128,9 @@
 </ul></li>
 <li class="chapter" data-level="6" data-path="literature.html"><a href="literature.html"><i class="fa fa-check"></i><b>6</b> Literature</a><ul>
 <li class="chapter" data-level="6.1" data-path="literature.html"><a href="literature.html#proteomics"><i class="fa fa-check"></i><b>6.1</b> Proteomics</a></li>
-<li class="chapter" data-level="6.2" data-path="literature.html"><a href="literature.html#multiplex-quantitation"><i class="fa fa-check"></i><b>6.2</b> Multiplex quantitation</a></li>
-<li class="chapter" data-level="6.3" data-path="literature.html"><a href="literature.html#proteome-data-analysis"><i class="fa fa-check"></i><b>6.3</b> Proteome data analysis</a></li>
-<li class="chapter" data-level="6.4" data-path="literature.html"><a href="literature.html#adaptive-instrument-control"><i class="fa fa-check"></i><b>6.4</b> Adaptive instrument control</a></li>
+<li class="chapter" data-level="6.2" data-path="literature.html"><a href="literature.html#proteome-data-analysis"><i class="fa fa-check"></i><b>6.2</b> Proteome data analysis</a></li>
+<li class="chapter" data-level="6.3" data-path="literature.html"><a href="literature.html#deep-learning"><i class="fa fa-check"></i><b>6.3</b> Deep learning</a></li>
+<li class="chapter" data-level="6.4" data-path="literature.html"><a href="literature.html#basic-mass-spectrometry"><i class="fa fa-check"></i><b>6.4</b> Basic mass spectrometry</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -143,7 +144,7 @@
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Schweppe Lab Handbook</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Meyer Lab Handbook</a>
           </h1>
         </div>
 
@@ -155,47 +156,51 @@
 <h1><span class="header-section-number">Chapter 2</span> Introduction</h1>
 <div id="lab-member-expectations-and-responsibilities" class="section level2">
 <h2><span class="header-section-number">2.1</span> Lab Member Expectations and Responsibilities</h2>
-<blockquote>
-<p>I would especially emphasize the extent of my gratitude and thanks to my eager and able colleagues without whose efforts I would not be here today.
--John B. Fenn</p>
-</blockquote>
-<p>No one can accomplish the work we are striving to do alone. By joining this lab, you are jumping into a big, partially-completed project, whether you realize it or not.</p>
+<p>If you work hard for me, I’ll work hard for you.</p>
 <div id="for-everyone" class="section level3">
 <h3><span class="header-section-number">2.1.1</span> For Everyone</h3>
-<p>The following applies to all full-time, part-time, and undergraduate lab members.</p>
-<p><strong><em>The Big Picture</em></strong></p>
+<p>The following applies to all lab members with any status.</p>
+<p>13 Lab Laws.</p>
+<p><em>Be:</em></p>
 <ul>
-<li>Do work that you are proud of. Do work that others will care about. If you feel as though your work does not meet these standards, let’s find a solution.</li>
-<li>Double-check your work. Being a little obsessive is essential to good science.</li>
-<li>Be supportive of your labmates. We are an inclusive team, act like it.</li>
-<li>Work independently when you can, ask for help when you need it.</li>
-<li>Share your knowledge. Exchanging knowledge and skills with your peers is the core of academic research.</li>
-<li>Respect each others’ strengths, weaknesses, differences, and beliefs.</li>
-<li>Academia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position.</li>
-<li>Communicate openly and respectfully with other members of the lab.</li>
+<li>Trustworthy. We all depend on each other. Keep your promises.</li>
+<li>Loyal. If you work hard for me, I will work hard for you.</li>
+<li>Helpful. We all need help sometimes. Offer to help without expecting any reward.</li>
+<li>Friendly. Approach everyone as if they are your long-time friend.</li>
+<li>Courteous. We always must show respect and consideration.<br />
+</li>
+<li>Kind. Treat others the way you want to be treated. Primum non nocere</li>
+<li>Obedient. If I ask for your help with something, I expect you to do your best to help. This goes both ways. If you ask me for something, I will do my best to do it.</li>
+<li>Cheerful. We are privileged to be where we are, and that should make you cheerful. Look for the positive side of every situation!</li>
+<li>Thrifty. The public entrusts their tax dollars to support our research, and in exchange we promise to be careful with that money.</li>
+<li>Brave. You will need to do things you’re not comfortable with. Maybe that means an experiment, conference, or public speaking. From experience believe me that 90% of success is showing up, and you will be stronger after.</li>
+<li>Clean. Please keep common areas clean and without clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you’re using lab equipment, put it away when you’re done.</li>
+<li>Reverant. Be reverent towards science and your journey.
+*Expedient. Plan full days of research tasks. Act like someone might finish and publish your project before you, because in reality, they might.</li>
 </ul>
 <p><strong><em>The Small Picture</em></strong></p>
 <ul>
 <li>Do not come into the lab if you are sick. Stay home and get healthy, and don’t risk getting others sick.</li>
-<li>Notify the lab manager or me if you will be taking the day off from work, either due to illness or vacation. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule. Please also update your Slack status.</li>
+<li>Notify the lab manager or me if you will be taking the day off from work, either due to illness or vacation. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.</li>
 <li><em>No food</em> is allowed at desks in the bays. Food can be consumed in the dry lab area, the common areas outside of the lab, or outside on a nice day!</li>
-<li>Keep the lab tidy. Common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you’re using lab equipment, put it away when you’re done.</li>
-<li>You are not expected to work on staff holidays. If you are being paid, then you are expected to work during university breaks (except for staff holidays or if you’re taking your paid vacation/personal time).</li>
+<li>You are not expected to work on staff holidays. You are expected to work during university breaks (except for staff holidays or if you’re taking your paid vacation/personal time).</li>
 <li>Lock the doors to the lab if no one else is around, even if you’re stepping out for a minute.</li>
-<li>The dress code in academia is generally casual. My only request is that you look semi-professional when when presenting your work or interviewing candidates. Jeans are fine, gym clothes and pajamas are not.</li>
+<li>The dress code is casual for routine work days. The only requirements in the lab are long pants and closed-toed shoes. Please dress semi-professional when presenting or interviewing new potential lab mates.<br />
+</li>
 <li>When working remotely, you should be generally available over Slack and email during workdays (not necessarily responding immediately, but ideally within a few hours), and you should attend any scheduled remote lab meetings.</li>
+<li>Notify me if you must miss or reschedule our group or one-on-one meetings</li>
 </ul>
 </div>
 <div id="for-the-pi" class="section level3">
 <h3><span class="header-section-number">2.1.2</span> For the PI</h3>
 <p>All of the points in the <em>Everyone</em> section, and you can expect me to:</p>
 <ul>
-<li>Maintain a vision of where the lab is going.</li>
-<li>Apply for and secure the funding necessary to keep the lab going.</li>
-<li>Meet with you regularly to discuss your research projects. The definition of “regularly” may change over time or over the course of a project, but for now, I mean once a week or more often as needed.</li>
-<li>Work with you to develop a mentoring and research plan tailored to your interests, needs, and career goals. We will meet in September each year to sketch out a strategic plan for the academic year that will keep you on track with your goals, and we will meet in June to review progress toward these goals.</li>
-<li>Give you my perspective on academia and issues related to professional development.</li>
-<li>Support your career development by introducing you to other researchers in the field, writing recommendation letters for you, providing you with opportunities to attend conferences when possible, and promoting your work in talks.</li>
+<li>Guide our group’s collective research vision</li>
+<li>Secure the funding you need for salary and supplies</li>
+<li>Meet with you regularly to discuss your research progress. Meeting frequency will change over time or over the course of a project. I will meet with new lab members for at least 15 minutes every morning, but as you progress meetings may be less frequent.</li>
+<li>Work with you to develop a mentoring and research plan tailored to your interests, needs, and career goals. We will meet in September each year to discuss your strategic plan for the academic year to keep you on track with your goals, and we will meet in March to review progress toward these goals.</li>
+<li>Guide your professional development, for example through presentations and writing</li>
+<li>Support your career development by introducing you to other researchers in the field, writing recommendation letters for you, providing you with opportunities to attend at least one conference per year, and promoting your work in my own presentations.</li>
 <li>Care about you as a person and not just a scientist. I am happy to discuss with you any concerns or life circumstances that may be influencing your work, but it is entirely up to you whether and what you want to share.</li>
 <li>If you need extra support related to time management and productivity, I will brainstorm solutions with you and share what has worked for me and for others.</li>
 </ul>
@@ -208,19 +213,22 @@
 <li>Mentor undergraduate and graduate students on their research projects, when asked or when appropriate.</li>
 <li>Apply for external funding (e.g., NRSA, K99, Damon-Runyon, Ford). I will hire postdocs only when there is funding available for at least a year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.</li>
 <li>Apply for jobs (academic or industry or otherwise) as soon as you are “ready” and/or by the beginning of your fourth year as a postdoc.</li>
-<li>If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. We can discuss ways of making sure that you are getting the training you need, while still doing excellent research.</li>
+<li>If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. Excellent research productivity, demonstrated by publications, is beneficial for every path.</li>
 <li>Remind me (the PI) that different scientific opinions can co-exist in the same lab!</li>
+<li>Postdocs must involve the PI in any manuscripts they are working on (excluding those from previous labs). The PI may refuse to participate intellectually or as author.</li>
 </ul>
 </div>
 <div id="for-graduate-students" class="section level3">
 <h3><span class="header-section-number">2.1.4</span> For Graduate Students</h3>
 <p>All of the points in the <em>Everyone</em> section, and they are expected to:</p>
 <ul>
-<li>Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.</li>
+<li>Publication requirements: all PhD students are expected to publish one review paper and two research papers. Research paper exceptions can be made for one high impact article (Cell, Nature, Science). Start writing a review on a topic we agree upon the day you decide to join the lab.</li>
+<li>Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 related experiments that produce at least 2 manuscripts.</li>
 <li>Apply for external funding (e.g., NSF GRFP or NRSA). This is a valuable learning experience and a great honor if awarded.</li>
-<li>Research what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need.</li>
-<li>Stay up-to-date (and keep me up-to-date) on any deadlines that you need to meet to fulfill departmental requirements. In general, this includes your external funding applications, your qualifying exam, and your dissertation proposal and defense.</li>
+<li>Work toward knowing what you want after you graduate and communicate those thoughts to me. I can help you go anywhere, but I need to know where you want to go.</li>
+<li>Be responsible for your own academic deadlines and keep me updated on them. You must know when department requirements are due (advancement to candidacy etc). In general, this includes your external funding applications, your qualifying exam, and your dissertation proposal and defense.</li>
 <li>Prioritize time for research. It is easy to get caught up in coursework or TA-ing, but at the end of 5-ish years, you need to have completed a dissertation.</li>
+<li>Students must involve the PI in any manuscripts they are working on (excluding those from previous labs). The PI may refuse to participate intellectually or as author.</li>
 </ul>
 </div>
 <div id="for-lab-managers-research-scientists" class="section level3">
@@ -228,7 +236,7 @@
 <p>All of the points in the <em>Everyone</em> section, and they are expected to:</p>
 <ul>
 <li>Maintain the lab IRB protocols and paperwork (e.g., archiving consent forms).</li>
-<li>Oversee the hiring, scheduling, and training of undergraduate research assistants.</li>
+<li>Oversee hiring, scheduling, training and ordering.</li>
 <li>Maintain the lab internal website.</li>
 <li>Keep the lab manager manual up to date.</li>
 <li>Assist with participant recruitment and scheduling.</li>
@@ -238,17 +246,24 @@
 <li>Work on your own research project.</li>
 </ul>
 </div>
+<div id="data-and-reproducibility" class="section level3">
+<h3><span class="header-section-number">2.1.6</span> Data and reproducibility</h3>
+<ul>
+<li>All data must be uploaded to a public repository before publication.</li>
+<li>All code needed to reproduce a result must be shared publicly.</li>
+</ul>
+</div>
 </div>
 <div id="lab-architecture" class="section level2">
 <h2><span class="header-section-number">2.2</span> Lab Architecture</h2>
-<p>The PI, for better or worse, shoulders responsibility for the work conducted by her lab group. While everyone involved in the work will be acknowledged when work we have done is published or praised, the PI will always be primarily responsible for correcting problems when they arise, no matter who really caused them. Our work can be questioned years after it has been carried out and published, meaning the PI is the only person committed to this for long enough to realistically keep this commitment.</p>
-<p>For some post-doctoral and PGR projects, the researchers involved might share a long-term commitment to the research and be the “local PI” on the work. In those cases, they will act as the primary person responsible for those projects. Even so, the PI must always have access to enough information about these projects to independently reproduce analyses and replicate findings.</p>
+<p>The PI, for better or worse, shoulders responsibility for the work conducted by their lab group. While everyone involved in the work will be acknowledged when work we have done is published or praised, the PI will always be primarily responsible for correcting problems when they arise, no matter who really caused them. Our work can be questioned years after it has been carried out and published, meaning the PI is the only person committed to this for long enough to realistically keep this commitment.</p>
+<p>For some post-doctoral projects, the researchers involved might share a long-term commitment to the research and be the “local PI” on the work. In those cases, they will act as the primary person responsible for those projects. Even so, the PI must always have access to enough information about these projects to independently reproduce analyses and replicate findings.</p>
 <p>While the PI thinks in terms of large, multi-experiment projects, lab researchers at all levels will have the responsibility for individual experiments, projects, or component projects. Elements of any project must always be documented. Every project has designated milestones at which documentation should be completed, backed-up, and shared (at least with the lab group, often publicly).</p>
-<p>Whenever a lab member moves on from the lab, every project they led must be documented and made accessible to the PI. At that point, if the project is not published, the PI must be given full editing authority along with the former lab member.</p>
+<p>Whenever a lab member moves on from the lab, every project they led must be documented and made accessible to the PI. At the point of leaving the lab, if a project is unpublished, the PI must be given full editing authority along with the former lab member.</p>
 </div>
 <div id="current-lab-members" class="section level2">
 <h2><span class="header-section-number">2.3</span> Current Lab Members</h2>
-<p>Devin K Schweppe, PhD, Principal Investigator (PI)</p>
+<p>Jesse G. Meyer, PhD, Principal Investigator (PI)</p>
 <div id="postdoctoral-fellows" class="section level3">
 <h3><span class="header-section-number">2.3.1</span> Postdoctoral Fellows</h3>
 </div>
@@ -257,19 +272,12 @@
 </div>
 <div id="research-scientists" class="section level3">
 <h3><span class="header-section-number">2.3.3</span> Research Scientists</h3>
+<p>Quinn Dickinson, MS, Research Technologist I</p>
 </div>
 </div>
 <div id="departmental-resources" class="section level2">
 <h2><span class="header-section-number">2.4</span> Departmental Resources</h2>
-<p>The Department of Genome Sciences has many resources to aid your research and career, including:</p>
-<ul>
-<li>General Information: <a href="https://www.gs.washington.edu/" class="uri">https://www.gs.washington.edu/</a></li>
-<li>DEI Initiatives: <a href="https://www.gs.washington.edu/about/dei/index.htm" class="uri">https://www.gs.washington.edu/about/dei/index.htm</a></li>
-<li>GS-IT: <a href="https://www.gs.washington.edu/computing/contact/index.htm" class="uri">https://www.gs.washington.edu/computing/contact/index.htm</a></li>
-<li>GS Seminars: <a href="https://www.gs.washington.edu/news/seminar.htm" class="uri">https://www.gs.washington.edu/news/seminar.htm</a></li>
-<li>Research Reports: <a href="https://www.gs.washington.edu/news/reports.htm" class="uri">https://www.gs.washington.edu/news/reports.htm</a></li>
-<li>Journal Club: <a href="https://www.gs.washington.edu/news/journal.htm" class="uri">https://www.gs.washington.edu/news/journal.htm</a></li>
-</ul>
+<p>Additional resources will go here</p>
 
 </div>
 </div>

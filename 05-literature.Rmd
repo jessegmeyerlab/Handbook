@@ -6,8 +6,9 @@ Below find links to papers that may be of interest to explore new topics or get 
 
 ## Proteomics
 
-## Multiplex quantitation
-
 ## Proteome data analysis
 
-## Adaptive instrument control
+## Deep learning
+
+## Basic mass spectrometry
+

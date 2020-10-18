@@ -2,21 +2,24 @@
 
 ## Instrumentation
 
-We work with highly sensitive, but also very expensive instrumentation. Below find guidelines for the use of instrumentation in the lab.
+We work with very expensive instrumentation that requires very expensive reagents and supplies. This secion give guidlines for the use of that instrumentation.
 
 Instrumentation and equipment need to be maintained so that every member of the lab has access to complete their research projects. When you have finished using an instrument, you should leave it in a condition so that the next person who needs to use it does not need to fix/clean it. This essential to keeping the lab functioning efficiently.
 
 ### Mass spectrometers
 
-By far the best part of our armamentarium to understand whole proteome dynamics, the mass spectrometers (MSs) are fantastic resources within the lab. Over the course of your work in the lab there will be opportunities to learn more about using, running and fixing the the MSs. I highly encourage you to learn as much as you can as well through the literature to understand what the instruments are capable of and not capable of.
+Mass spectrometers (MSs) are the key technology we use to drive projects. Over the course of your work in the lab there will be opportunities to learn more about using, running and fixing the the MSs. I highly encourage you to learn as much as you can as well through the literature to understand what the instruments are capable of and not capable of.
 
 If you run into issues in the operation of the instruments (including but not limited to hardware malfunctions or failures and software faults or errors), **alert me immediately**! These problems cannot be ignored and are more likely than not to cause considerable harm to the instrument if left unattended. Unaddressed issues are also likely to result in expensive instrument repairs (tens of thousands of dollars).
 
-If you notice significant degradation of instrument performance during or after your runs, alert both Devin and the next user so that samples are not lost!
+If you notice significant degradation of instrument performance during or after your runs, alert both Jesse and the next user so that samples are not lost!
+
+**Before and after every scheduled use** you are requred to analyze a standard that captures the performance of the method you are using. You are responsible for returing the instrument to the next user in the same condition as you recieved it, and comparing the standard data before and after your analysis proves this. If you are doing nanoLC-MS/MS, then that standard should show the separation AND mass spectral quality and sensitivity. I will work with each of you to determine the best standard for your project. 
+
 
 ### HPLCs
 
-Separation or enrichment of peptides, proteins, and small molecules using high performance liquid chromatography (HPLC) is an integral part of our workflows. Normal HPLCs are often quite robust, while nano-HPLCs can be prone to failure due to their high operational pressures. As with the mass spectrometers any issues with the hardware or software need to be addressed immediately.
+Separation or enrichment of peptides, proteins, and small molecules using high performance liquid chromatography (HPLC) is an integral part of our workflows. HPLC systems are usually the main source of instrument problems. As with the mass spectrometers any issues with the hardware or software need to be addressed immediately.
 
 ## Data, Data, Data
 
@@ -26,7 +29,9 @@ All scripts and code used for lab projects (including programs, websites, tools,
 
 ### Raw Data
 
-Raw data will be backed up in at least two places to ensure that should it need to be accessed it can be. This is especially important for published data as someone may ask for these files years later. Unpublished data should be similarly managed to ensure that we do not need to revisit the same basic work again. If you are unsure or where to store your data contact Devin!
+Raw data will be backed up in at least two places to ensure that should it need to be accessed it can be. This is especially important for published data as someone may ask for these files years later. Unpublished data should be similarly managed to ensure that we do not need to revisit the same basic work again. If you are unsure or where to store your data contact Jesse!
+
+**AS SOON AS YOU FINISH COLLECTING DATA FOR YOUR PROJECT** it should be uploaded to massive or a similar repository with metadata that describes the file naming convention. 
 
 ### Data sharing
 
@@ -34,15 +39,6 @@ Data for publication will be shared through PRIDE/ProteomeXchange or a similar r
 
 ### Lab Storage
 
-Data can be stored in the following places:
-
-* **Lab server**
-  + *Store*: Raw data, search results, basic analyses.
-* **Lab partition of departmental storage**
-  + *Store*: Raw data, data analysis, programs, general utilities, presentations, lab meeting information, protocols, collaboration data.
-* **Lab GitHub**
-  + *Store*: All code/scripts. Yup, all of it.
-* **Google Drive (in shared folders)**
-  + *Store*: Personal project information, presentations, figures, pre-print manuscripts, proofs, collaboration data.
+We have a lab drive setup through the MCW research computing center. All data should be copied from the mass spectrometer as soon as it is collected and stored on our group drive.  
 
 

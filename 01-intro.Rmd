@@ -2,48 +2,53 @@
 
 ## Lab Member Expectations and Responsibilities
 
->I would especially emphasize the extent of my gratitude and thanks to my eager and able colleagues without whose efforts I would not be here today.
->-John B. Fenn
-
-No one can accomplish the work we are striving to do alone. By joining this lab, you are jumping into a big, partially-completed project, whether you realize it or not.
+If you work hard for me, I'll work hard for you. 
 
 ### For Everyone
 
-The following applies to all full-time, part-time, and undergraduate lab members.
+The following applies to all lab members with any status. 
 
-***The Big Picture***
+13 Lab Laws. 
 
-*	Do work that you are proud of. Do work that others will care about. If you feel as though your work does not meet these standards, let’s find a solution.
-*	Double-check your work. Being a little obsessive is essential to good science.
-*	Be supportive of your labmates. We are an inclusive team, act like it.
-*	Work independently when you can, ask for help when you need it.
-*	Share your knowledge. Exchanging knowledge and skills with your peers is the core of academic research.
-*	Respect each others' strengths, weaknesses, differences, and beliefs.
-*	Academia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. 
-*	Communicate openly and respectfully with other members of the lab.
+*Be:*
+
+* Trustworthy. We all depend on each other. Keep your promises.
+* Loyal. If you work hard for me, I will work hard for you.
+* Helpful. We all need help sometimes. Offer to help without expecting any reward.
+* Friendly. Approach everyone as if they are your long-time friend.
+* Courteous. We always must show respect and consideration.  
+* Kind. Treat others the way you want to be treated. Primum non nocere
+* Obedient. If I ask for your help with something, I expect you to do your best to help. This goes both ways. If you ask me for something, I will do my best to do it. 
+* Cheerful. We are privileged to be where we are, and that should make you cheerful. Look for the positive side of every situation!
+* Thrifty. The public entrusts their tax dollars to support our research, and in exchange we promise to be careful with that money. 
+* Brave. You will need to do things you're not comfortable with. Maybe that means an experiment, conference, or public speaking. From experience believe me that 90% of success is showing up, and you will be stronger after. 
+* Clean. Please keep common areas clean and without clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
+* Reverant. Be reverent towards science and your journey. 
+*Expedient. Plan full days of research tasks. Act like someone might finish and publish your project before you, because in reality, they might.
 
 ***The Small Picture***
 
 *	Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
-*	Notify the lab manager or me if you will be taking the day off from work, either due to illness or vacation. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule. Please also update your Slack status.
+*	Notify the lab manager or me if you will be taking the day off from work, either due to illness or vacation. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule. 
 * *No food* is allowed at desks in the bays. Food can be consumed in the dry lab area, the common areas outside of the lab, or outside on a nice day!
-*	Keep the lab tidy. Common areas should be kept free of clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
-*	You are not expected to work on staff holidays. If you are being paid, then you are expected to work during university breaks (except for staff holidays or if you're taking your paid vacation/personal time).
+*	You are not expected to work on staff holidays. You are expected to work during university breaks (except for staff holidays or if you're taking your paid vacation/personal time).
 *	Lock the doors to the lab if no one else is around, even if you're stepping out for a minute.
-*	The dress code in academia is generally casual. My only request is that you look semi-professional when when presenting your work or interviewing candidates. Jeans are fine, gym clothes and pajamas are not.
+*	The dress code is casual for routine work days. The only requirements in the lab are long pants and closed-toed shoes. Please dress semi-professional when presenting or interviewing new potential lab mates.  
 *	When working remotely, you should be generally available over Slack and email during workdays (not necessarily responding immediately, but ideally within a few hours), and you should attend any scheduled remote lab meetings.
+* Notify me if you must miss or reschedule our group or one-on-one meetings 
 
 ### For the PI
 All of the points in the *Everyone* section, and you can expect me to:
 
-*	Maintain a vision of where the lab is going.
-*	Apply for and secure the funding necessary to keep the lab going.
-*	Meet with you regularly to discuss your research projects. The definition of "regularly" may change over time or over the course of a project, but for now, I mean once a week or more often as needed.
-*	Work with you to develop a mentoring and research plan tailored to your interests, needs, and career goals. We will meet in September each year to sketch out a strategic plan for the academic year that will keep you on track with your goals, and we will meet in June to review progress toward these goals.
-*	Give you my perspective on academia and issues related to professional development.
-*	Support your career development by introducing you to other researchers in the field, writing recommendation letters for you, providing you with opportunities to attend conferences when possible, and promoting your work in talks.
+*	Guide our group's collective research vision
+*	Secure the funding you need for salary and supplies
+*	Meet with you regularly to discuss your research progress. Meeting frequency will change over time or over the course of a project. I will meet with new lab members for at least 15 minutes every morning, but as you progress meetings may be less frequent. 
+*	Work with you to develop a mentoring and research plan tailored to your interests, needs, and career goals. We will meet in September each year to discuss your strategic plan for the academic year to keep you on track with your goals, and we will meet in March to review progress toward these goals.
+*	Guide your professional development, for example through presentations and writing
+*	Support your career development by introducing you to other researchers in the field, writing recommendation letters for you, providing you with opportunities to attend at least one conference per year, and promoting your work in my own presentations.
 *	Care about you as a person and not just a scientist. I am happy to discuss with you any concerns or life circumstances that may be influencing your work, but it is entirely up to you whether and what you want to share. 
 *	If you need extra support related to time management and productivity, I will brainstorm solutions with you and share what has worked for me and for others. 
+
 
 ### For Post-docs
 All of the points in the *Everyone* section, and they are expected to:
@@ -52,23 +57,26 @@ All of the points in the *Everyone* section, and they are expected to:
 *	Mentor undergraduate and graduate students on their research projects, when asked or when appropriate.
 *	Apply for external funding (e.g., NRSA, K99, Damon-Runyon, Ford). I will hire postdocs only when there is funding available for at least a year; however, applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.
 *	Apply for jobs (academic or industry or otherwise) as soon as you are "ready" and/or by the beginning of your fourth year as a postdoc.
-*	If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. We can discuss ways of making sure that you are getting the training you need, while still doing excellent research.
+*	If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. Excellent research productivity, demonstrated by publications, is beneficial for every path.
 *	Remind me (the PI) that different scientific opinions can co-exist in the same lab!
+* Postdocs must involve the PI in any manuscripts they are working on (excluding those from previous labs). The PI may refuse to participate intellectually or as author. 
 
 ### For Graduate Students
 All of the points in the *Everyone* section, and they are expected to:
 
-*	Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
-*	Apply for external funding (e.g., NSF GRFP or NRSA). This is a valuable learning experience and a great honor if awarded.
-*	Research what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need.
-*	Stay up-to-date (and keep me up-to-date) on any deadlines that you need to meet to fulfill departmental requirements. In general, this includes your external funding applications, your qualifying exam, and your dissertation proposal and defense.
+* Publication requirements: all PhD students are expected to publish one review paper and two research papers. Research paper exceptions can be made for one high impact article (Cell, Nature, Science). Start writing a review on a topic we agree upon the day you decide to join the lab. 
+*	Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 related experiments that produce at least 2 manuscripts. 
+*	Apply for external funding (e.g., NSF GRFP or NRSA). This is a valuable learning experience and a great honor if awarded. 
+*	Work toward knowing what you want after you graduate and communicate those thoughts to me. I can help you go anywhere, but I need to know where you want to go. 
+*	Be responsible for your own academic deadlines and keep me updated on them. You must know when department requirements are due (advancement to candidacy etc). In general, this includes your external funding applications, your qualifying exam, and your dissertation proposal and defense.
 *	Prioritize time for research. It is easy to get caught up in coursework or TA-ing, but at the end of 5-ish years, you need to have completed a dissertation.
+* Students must involve the PI in any manuscripts they are working on (excluding those from previous labs). The PI may refuse to participate intellectually or as author. 
 
 ### For Lab Managers & Research Scientists
 All of the points in the *Everyone* section, and they are expected to:
 
 *	Maintain the lab IRB protocols and paperwork (e.g., archiving consent forms).
-*	Oversee the hiring, scheduling, and training of undergraduate research assistants.
+*	Oversee hiring, scheduling, training and ordering.
 *	Maintain the lab internal website.
 *	Keep the lab manager manual up to date.
 *	Assist with participant recruitment and scheduling.
@@ -77,35 +85,33 @@ All of the points in the *Everyone* section, and they are expected to:
 *	Help to maintain an atmosphere of professionalism within the lab.
 *	Work on your own research project.
 
+### Data and reproducibility
+* All data must be uploaded to a public repository before publication. 
+* All code needed to reproduce a result must be shared publicly. 
 
 ## Lab Architecture
-The PI, for better or worse, shoulders responsibility for the work conducted by her lab group. While everyone involved in the work will be acknowledged when work we have done is published or praised, the PI will always be primarily responsible for correcting problems when they arise, no matter who really caused them. Our work can be questioned years after it has been carried out and published, meaning the PI is the only person committed to this for long enough to realistically keep this commitment. 
+The PI, for better or worse, shoulders responsibility for the work conducted by their lab group. While everyone involved in the work will be acknowledged when work we have done is published or praised, the PI will always be primarily responsible for correcting problems when they arise, no matter who really caused them. Our work can be questioned years after it has been carried out and published, meaning the PI is the only person committed to this for long enough to realistically keep this commitment. 
 
-For some post-doctoral and PGR projects, the researchers involved might share a long-term commitment to the research and be the "local PI" on the work. In those cases, they will act as the primary person responsible for those projects. Even so, the PI must always have access to enough information about these projects to independently reproduce analyses and replicate findings.
+For some post-doctoral projects, the researchers involved might share a long-term commitment to the research and be the "local PI" on the work. In those cases, they will act as the primary person responsible for those projects. Even so, the PI must always have access to enough information about these projects to independently reproduce analyses and replicate findings.
 
 While the PI thinks in terms of large, multi-experiment projects, lab researchers at all levels will have the responsibility for individual experiments, projects, or component projects. Elements of any project must always be documented. Every project has designated milestones at which documentation should be completed, backed-up, and shared (at least with the lab group, often publicly).
   
-Whenever a lab member moves on from the lab, every project they led must be documented and made accessible to the PI. At that point, if the project is not published, the PI must be given full editing authority along with the former lab member.
+Whenever a lab member moves on from the lab, every project they led must be documented and made accessible to the PI. At the point of leaving the lab, if a project is unpublished, the PI must be given full editing authority along with the former lab member.
 
 ## Current Lab Members
 
-Devin K Schweppe, PhD, Principal Investigator (PI)
+Jesse G. Meyer, PhD, Principal Investigator (PI)
+
 
 ### Postdoctoral Fellows
 
 ### Graduate Students
 
 ### Research Scientists
+Quinn Dickinson, MS, Research Technologist I 
 
 
 ## Departmental Resources
-The Department of Genome Sciences has many resources to aid your research and career, including:
 
-* General Information: https://www.gs.washington.edu/ 
-* DEI Initiatives: https://www.gs.washington.edu/about/dei/index.htm
-* GS-IT: https://www.gs.washington.edu/computing/contact/index.htm
-* GS Seminars: https://www.gs.washington.edu/news/seminar.htm
-* Research Reports: https://www.gs.washington.edu/news/reports.htm
-* Journal Club: https://www.gs.washington.edu/news/journal.htm
-
+Additional resources will go here
 

@@ -4,27 +4,27 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 5 Data and Instrumentation | Schweppe Lab Handbook</title>
-  <meta name="description" content="This is a lab handbook for the Schweppe Lab within the Department of Genome Sciences at the University of Washington." />
-  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+  <title>Chapter 5 Data and Instrumentation | Meyer Lab Handbook</title>
+  <meta name="description" content="This is a lab handbook for the Meyer Lab within the Department of Biochemistry at the Medical College of Wisconsin." />
+  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 5 Data and Instrumentation | Schweppe Lab Handbook" />
+  <meta property="og:title" content="Chapter 5 Data and Instrumentation | Meyer Lab Handbook" />
   <meta property="og:type" content="book" />
   
   
-  <meta property="og:description" content="This is a lab handbook for the Schweppe Lab within the Department of Genome Sciences at the University of Washington." />
+  <meta property="og:description" content="This is a lab handbook for the Meyer Lab within the Department of Biochemistry at the Medical College of Wisconsin." />
   <meta name="github-repo" content="rstudio/LabHandbook" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 5 Data and Instrumentation | Schweppe Lab Handbook" />
+  <meta name="twitter:title" content="Chapter 5 Data and Instrumentation | Meyer Lab Handbook" />
   
-  <meta name="twitter:description" content="This is a lab handbook for the Schweppe Lab within the Department of Genome Sciences at the University of Washington." />
+  <meta name="twitter:description" content="This is a lab handbook for the Meyer Lab within the Department of Biochemistry at the Medical College of Wisconsin." />
   
 
-<meta name="author" content="Devin Schweppe" />
+<meta name="author" content="Jesse Meyer" />
 
 
-<meta name="date" content="2020-08-07" />
+<meta name="date" content="2020-10-18" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -78,6 +78,7 @@
 <li class="chapter" data-level="2.1.3" data-path="intro.html"><a href="intro.html#for-post-docs"><i class="fa fa-check"></i><b>2.1.3</b> For Post-docs</a></li>
 <li class="chapter" data-level="2.1.4" data-path="intro.html"><a href="intro.html#for-graduate-students"><i class="fa fa-check"></i><b>2.1.4</b> For Graduate Students</a></li>
 <li class="chapter" data-level="2.1.5" data-path="intro.html"><a href="intro.html#for-lab-managers-research-scientists"><i class="fa fa-check"></i><b>2.1.5</b> For Lab Managers &amp; Research Scientists</a></li>
+<li class="chapter" data-level="2.1.6" data-path="intro.html"><a href="intro.html#data-and-reproducibility"><i class="fa fa-check"></i><b>2.1.6</b> Data and reproducibility</a></li>
 </ul></li>
 <li class="chapter" data-level="2.2" data-path="intro.html"><a href="intro.html#lab-architecture"><i class="fa fa-check"></i><b>2.2</b> Lab Architecture</a></li>
 <li class="chapter" data-level="2.3" data-path="intro.html"><a href="intro.html#current-lab-members"><i class="fa fa-check"></i><b>2.3</b> Current Lab Members</a><ul>
@@ -127,9 +128,9 @@
 </ul></li>
 <li class="chapter" data-level="6" data-path="literature.html"><a href="literature.html"><i class="fa fa-check"></i><b>6</b> Literature</a><ul>
 <li class="chapter" data-level="6.1" data-path="literature.html"><a href="literature.html#proteomics"><i class="fa fa-check"></i><b>6.1</b> Proteomics</a></li>
-<li class="chapter" data-level="6.2" data-path="literature.html"><a href="literature.html#multiplex-quantitation"><i class="fa fa-check"></i><b>6.2</b> Multiplex quantitation</a></li>
-<li class="chapter" data-level="6.3" data-path="literature.html"><a href="literature.html#proteome-data-analysis"><i class="fa fa-check"></i><b>6.3</b> Proteome data analysis</a></li>
-<li class="chapter" data-level="6.4" data-path="literature.html"><a href="literature.html#adaptive-instrument-control"><i class="fa fa-check"></i><b>6.4</b> Adaptive instrument control</a></li>
+<li class="chapter" data-level="6.2" data-path="literature.html"><a href="literature.html#proteome-data-analysis"><i class="fa fa-check"></i><b>6.2</b> Proteome data analysis</a></li>
+<li class="chapter" data-level="6.3" data-path="literature.html"><a href="literature.html#deep-learning"><i class="fa fa-check"></i><b>6.3</b> Deep learning</a></li>
+<li class="chapter" data-level="6.4" data-path="literature.html"><a href="literature.html#basic-mass-spectrometry"><i class="fa fa-check"></i><b>6.4</b> Basic mass spectrometry</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -143,7 +144,7 @@
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Schweppe Lab Handbook</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Meyer Lab Handbook</a>
           </h1>
         </div>
 
@@ -155,17 +156,18 @@
 <h1><span class="header-section-number">Chapter 5</span> Data and Instrumentation</h1>
 <div id="instrumentation" class="section level2">
 <h2><span class="header-section-number">5.1</span> Instrumentation</h2>
-<p>We work with highly sensitive, but also very expensive instrumentation. Below find guidelines for the use of instrumentation in the lab.</p>
+<p>We work with very expensive instrumentation that requires very expensive reagents and supplies. This secion give guidlines for the use of that instrumentation.</p>
 <p>Instrumentation and equipment need to be maintained so that every member of the lab has access to complete their research projects. When you have finished using an instrument, you should leave it in a condition so that the next person who needs to use it does not need to fix/clean it. This essential to keeping the lab functioning efficiently.</p>
 <div id="mass-spectrometers" class="section level3">
 <h3><span class="header-section-number">5.1.1</span> Mass spectrometers</h3>
-<p>By far the best part of our armamentarium to understand whole proteome dynamics, the mass spectrometers (MSs) are fantastic resources within the lab. Over the course of your work in the lab there will be opportunities to learn more about using, running and fixing the the MSs. I highly encourage you to learn as much as you can as well through the literature to understand what the instruments are capable of and not capable of.</p>
+<p>Mass spectrometers (MSs) are the key technology we use to drive projects. Over the course of your work in the lab there will be opportunities to learn more about using, running and fixing the the MSs. I highly encourage you to learn as much as you can as well through the literature to understand what the instruments are capable of and not capable of.</p>
 <p>If you run into issues in the operation of the instruments (including but not limited to hardware malfunctions or failures and software faults or errors), <strong>alert me immediately</strong>! These problems cannot be ignored and are more likely than not to cause considerable harm to the instrument if left unattended. Unaddressed issues are also likely to result in expensive instrument repairs (tens of thousands of dollars).</p>
-<p>If you notice significant degradation of instrument performance during or after your runs, alert both Devin and the next user so that samples are not lost!</p>
+<p>If you notice significant degradation of instrument performance during or after your runs, alert both Jesse and the next user so that samples are not lost!</p>
+<p><strong>Before and after every scheduled use</strong> you are requred to analyze a standard that captures the performance of the method you are using. You are responsible for returing the instrument to the next user in the same condition as you recieved it, and comparing the standard data before and after your analysis proves this. If you are doing nanoLC-MS/MS, then that standard should show the separation AND mass spectral quality and sensitivity. I will work with each of you to determine the best standard for your project.</p>
 </div>
 <div id="hplcs" class="section level3">
 <h3><span class="header-section-number">5.1.2</span> HPLCs</h3>
-<p>Separation or enrichment of peptides, proteins, and small molecules using high performance liquid chromatography (HPLC) is an integral part of our workflows. Normal HPLCs are often quite robust, while nano-HPLCs can be prone to failure due to their high operational pressures. As with the mass spectrometers any issues with the hardware or software need to be addressed immediately.</p>
+<p>Separation or enrichment of peptides, proteins, and small molecules using high performance liquid chromatography (HPLC) is an integral part of our workflows. HPLC systems are usually the main source of instrument problems. As with the mass spectrometers any issues with the hardware or software need to be addressed immediately.</p>
 </div>
 </div>
 <div id="data-data-data" class="section level2">
@@ -176,7 +178,8 @@
 </div>
 <div id="raw-data" class="section level3">
 <h3><span class="header-section-number">5.2.2</span> Raw Data</h3>
-<p>Raw data will be backed up in at least two places to ensure that should it need to be accessed it can be. This is especially important for published data as someone may ask for these files years later. Unpublished data should be similarly managed to ensure that we do not need to revisit the same basic work again. If you are unsure or where to store your data contact Devin!</p>
+<p>Raw data will be backed up in at least two places to ensure that should it need to be accessed it can be. This is especially important for published data as someone may ask for these files years later. Unpublished data should be similarly managed to ensure that we do not need to revisit the same basic work again. If you are unsure or where to store your data contact Jesse!</p>
+<p><strong>AS SOON AS YOU FINISH COLLECTING DATA FOR YOUR PROJECT</strong> it should be uploaded to massive or a similar repository with metadata that describes the file naming convention.</p>
 </div>
 <div id="data-sharing" class="section level3">
 <h3><span class="header-section-number">5.2.3</span> Data sharing</h3>
@@ -184,25 +187,7 @@
 </div>
 <div id="lab-storage" class="section level3">
 <h3><span class="header-section-number">5.2.4</span> Lab Storage</h3>
-<p>Data can be stored in the following places:</p>
-<ul>
-<li><strong>Lab server</strong>
-<ul>
-<li><em>Store</em>: Raw data, search results, basic analyses.</li>
-</ul></li>
-<li><strong>Lab partition of departmental storage</strong>
-<ul>
-<li><em>Store</em>: Raw data, data analysis, programs, general utilities, presentations, lab meeting information, protocols, collaboration data.</li>
-</ul></li>
-<li><strong>Lab GitHub</strong>
-<ul>
-<li><em>Store</em>: All code/scripts. Yup, all of it.</li>
-</ul></li>
-<li><strong>Google Drive (in shared folders)</strong>
-<ul>
-<li><em>Store</em>: Personal project information, presentations, figures, pre-print manuscripts, proofs, collaboration data.</li>
-</ul></li>
-</ul>
+<p>We have a lab drive setup through the MCW research computing center. All data should be copied from the mass spectrometer as soon as it is collected and stored on our group drive.</p>
 
 </div>
 </div>
