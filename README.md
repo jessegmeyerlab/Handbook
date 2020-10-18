@@ -1,10 +1,11 @@
-Welcome to the Schweppe Lab Handbook. 
-https://schweppelab.github.io/Handbook/
+Welcome to the Meyer Lab Handbook. 
+https://jessegmeyerlab.github.io/Handbook/
 
-The handbook was developed by [Devin Schweppe](https://www.schweppelab.org/) as a guide for new and current members of the lab. The goal of this handbook is to provide resources, guidelines, and information to foster an environment of scientific excellence and personal development that is inclusive and (hopefully) fun. More information on the lab and department can be found through the following resources:
+The handbook was developed by [Jesse Meyer](https://www.jessemeyerlab.com/our-team) as a guide for current and prospective researchers with resources, guidelines, and information about the Meyer Lab. 
 
-* [The Lab website](https://www.schweppelab.org)
-* [The Lab Slack Channel](https://schweppelab.slack.com/)
-* [Departmental website](https://www.gs.washington.edu/)
+More information on the lab and department can be found through the following resources:
 
-This handbook has been adapted from and influenced by several other works from the [ Morey](https://ccmorey.github.io/labHandbook/index.html), [ Peele](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf), and [Ritchey](http://www.thememolab.org/resources/) groups. The Schweppe Lab manual is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+* [The Lab website](https://www.jessemeyerlab.com)
+* [MCW Biochemistry Departmental website](https://www.mcw.edu/departments/biochemistry)
+
+This handbook was forked from [Devin Schweppe's](https://www.schweppelab.org/) [handbook](https://schweppelab.github.io/Handbook/index.html), which was adapted from and influenced by several other works from the [ Morey](https://ccmorey.github.io/labHandbook/index.html), [ Peele](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf), and [Ritchey](http://www.thememolab.org/resources/) groups. The Meyer Lab manual is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
