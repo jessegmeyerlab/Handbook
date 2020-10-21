@@ -12,21 +12,21 @@ The following applies to all lab members with any status.
 
 *Be:*
 
-* Trustworthy. We all depend on each other. Keep your promises.
-* Loyal. If you work hard for me, I will work hard for you.
-* Helpful. We all need help sometimes. Offer to help without expecting any reward.
-* Friendly. Approach everyone as if they are your long-time friend.
-* Courteous. We always must show respect and consideration.  
-* Kind. Treat others the way you want to be treated. Primum non nocere
-* Obedient. If I ask for your help with something, I expect you to do your best to help. This goes both ways. If you ask me for something, I will do my best to do it. 
-* Cheerful. We are privileged to be where we are, and that should make you cheerful. Look for the positive side of every situation!
-* Thrifty. The public entrusts their tax dollars to support our research, and in exchange we promise to be careful with that money. 
-* Brave. You will need to do things you're not comfortable with. Maybe that means an experiment, conference, or public speaking. From experience believe me that 90% of success is showing up, and you will be stronger after. 
-* Clean. Please keep common areas clean and without clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
-* Reverant. Be reverent towards science and your journey. 
-*Expedient. Plan full days of research tasks. Act like someone might finish and publish your project before you, because in reality, they might.
+* **Trustworthy.** We all depend on each other. Keep your promises.
+* **Loyal.** If you work hard for me, I will work hard for you.
+* **Helpful.** We all need help sometimes. Offer to help without expecting any reward.
+* **Friendly.** Approach everyone as if they are your long-time friend.
+* **Courteous.** We always must show respect and consideration.  
+* **Kind.** Treat others the way you want to be treated. Primum non nocere
+* **Obedient.** If I ask for your help with something, I expect you to do your best to help. This goes both ways. If you ask me for something, I will do my best to do it. 
+* **Cheerful.** We are privileged to be where we are, and that should make you cheerful. Look for the positive side of every situation!
+* **Thrifty.** The public entrusts their tax dollars to support our research, and in exchange we promise to be careful with that money. 
+* **Brave.** You will need to do things you're not comfortable with. Maybe that means an experiment, conference, or public speaking. From experience believe me that 90% of success is showing up, and you will be stronger after. 
+* **Clean.** Please keep common areas clean and without clutter. Items left unattended may be cleaned, reclaimed, or recycled. If you're using lab equipment, put it away when you're done.
+* **Reverant.** Be reverent towards science and your journey. 
+* **Expedient.** Plan full days of research. Act like someone might finish and publish your project before you, because in reality, they might.
 
-***The Small Picture***
+***Details***
 
 *	Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
 *	Notify the lab manager or me if you will be taking the day off from work, either due to illness or vacation. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule. 
@@ -34,7 +34,8 @@ The following applies to all lab members with any status.
 *	You are not expected to work on staff holidays. You are expected to work during university breaks (except for staff holidays or if you're taking your paid vacation/personal time).
 *	Lock the doors to the lab if no one else is around, even if you're stepping out for a minute.
 *	The dress code is casual for routine work days. The only requirements in the lab are long pants and closed-toed shoes. Please dress semi-professional when presenting or interviewing new potential lab mates.  
-*	When working remotely, you should be generally available over Slack and email during workdays (not necessarily responding immediately, but ideally within a few hours), and you should attend any scheduled remote lab meetings.
+*	When working remotely, you should be generally available during workdays (not necessarily responding immediately, but ideally within a few hours), and you should attend any scheduled remote lab meetings.
+* In general, reply to emails you recieve (not only from me) within 24 hours.
 * Notify me if you must miss or reschedule our group or one-on-one meetings 
 
 ### For the PI
@@ -43,10 +44,10 @@ All of the points in the *Everyone* section, and you can expect me to:
 *	Guide our group's collective research vision
 *	Secure the funding you need for salary and supplies
 *	Meet with you regularly to discuss your research progress. Meeting frequency will change over time or over the course of a project. I will meet with new lab members for at least 15 minutes every morning, but as you progress meetings may be less frequent. 
-*	Work with you to develop a mentoring and research plan tailored to your interests, needs, and career goals. We will meet in September each year to discuss your strategic plan for the academic year to keep you on track with your goals, and we will meet in March to review progress toward these goals.
-*	Guide your professional development, for example through presentations and writing
+*	Develop a mentoring and research plan tailored to your interests, needs, and career goals. We will meet in September each year to discuss your strategic plan for the academic year to keep you on track with your goals, and we will meet in March to review progress toward these goals.
+*	Guide your professional development, for example helping with presentations and writing
 *	Support your career development by introducing you to other researchers in the field, writing recommendation letters for you, providing you with opportunities to attend at least one conference per year, and promoting your work in my own presentations.
-*	Care about you as a person and not just a scientist. I am happy to discuss with you any concerns or life circumstances that may be influencing your work, but it is entirely up to you whether and what you want to share. 
+*	Care about you as a person and not just a scientist. I am happy to discuss with you any concerns or life circumstances that may be influencing your work, but it is entirely up to you whether and what you want to share.
 *	If you need extra support related to time management and productivity, I will brainstorm solutions with you and share what has worked for me and for others. 
 
 
@@ -64,7 +65,8 @@ All of the points in the *Everyone* section, and they are expected to:
 ### For Graduate Students
 All of the points in the *Everyone* section, and they are expected to:
 
-* Publication requirements: all PhD students are expected to publish one review paper and two research papers. Research paper exceptions can be made for one high impact article (Cell, Nature, Science). Start writing a review on a topic we agree upon the day you decide to join the lab. 
+* Publication requirements: all PhD students are expected to publish *at least* one first-author review paper and two first-author research papers. Exceptions to the research can be made for one high impact article (Cell, Nature, Science). 
+* Start writing a review on a topic we agree upon the day you decide to join the lab. The purpose of this is to both bolster your CV, and to immerse you into your field so we can see the gaps where research will have the most impact. 
 *	Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 related experiments that produce at least 2 manuscripts. 
 *	Apply for external funding (e.g., NSF GRFP or NRSA). This is a valuable learning experience and a great honor if awarded. 
 *	Work toward knowing what you want after you graduate and communicate those thoughts to me. I can help you go anywhere, but I need to know where you want to go. 
