@@ -1,6 +1,6 @@
 # Code of Conduct {#code}
 
-## General
+## Safe and Professional
 
 In addition to the general expectations laid out above, I am dedicated to making our lab a safe, inclusive, and welcoming environment for all. Below you can find a specific code of conduct for behavior in the lab, as well as a broader discussion of what constitutes an inclusive environment. For more information on professional conduct see the [MCW Policy on Professional Conduct](https://www.mcw.edu/about-mcw/non-discrimination-notice/mcw-professional-conduct-policy).
 
